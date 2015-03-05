@@ -25,10 +25,5 @@
     "psr-4": {
       "rom777\\ajax\\": ""
     }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "2.0.x-dev"
-    }
   }
 }
